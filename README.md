@@ -1,6 +1,6 @@
 # PM Skills Pack
 
-Six Claude skills for the day-to-day work of a product manager, built from real workflows: writing PRDs, grooming backlogs, writing tickets, making demo videos, writing product guides and launching work publicly.
+Seven Claude skills for the day-to-day work of a product manager, built from real workflows: writing PRDs, grooming backlogs, writing tickets, making demo videos, writing product guides, launching work publicly and building a starter portfolio website.
 
 Created by Moses Afolabi ([mosesafolabi.com/skills](https://mosesafolabi.com/skills)). Free to use, share and adapt under the MIT licence.
 
@@ -16,6 +16,7 @@ Created by Moses Afolabi ([mosesafolabi.com/skills](https://mosesafolabi.com/ski
 | product-demo-video | Plans and produces demo videos: script, shot list, natural AI voiceover, cover thumbnail and post copy. |
 | annotated-product-guide | Writes feature guides with annotated screenshots (arrows, numbered labels, redacted personal data). |
 | pm-launch-kit | LinkedIn posts, case studies, community post titles and designed cover images for shipped work. |
+| starter-portfolio-website | Builds a one-page portfolio website for someone early in their career: intake questions, project case studies, a responsive accessible page and help going live. |
 
 ## How to install
 
@@ -26,6 +27,9 @@ Created by Moses Afolabi ([mosesafolabi.com/skills](https://mosesafolabi.com/ski
 
 **Claude Code**
 Unzip each skill into `~/.claude/skills/` so you end up with, for example, `~/.claude/skills/prd-writer/SKILL.md`.
+
+**ChatGPT**
+ChatGPT supports the same SKILL.md format. Upload a skill's zip (or its folder) to ChatGPT, then type @ and pick the skill, or just ask for the task.
 
 Each skill triggers on its own when your request matches its description, or you can ask for it by name ("use prd-writer to...").
 
